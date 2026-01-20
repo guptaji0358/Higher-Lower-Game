@@ -38,10 +38,4 @@ An interactive **Higher or Lower game** built in Python where players guess who 
 - Designing a **replay mechanism** that feels smooth and user‑friendly  
 - Making console projects more engaging with **creative text and emojis**
 
----
 
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/higher-or-lower-game.git
